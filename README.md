@@ -24,6 +24,7 @@ https://github.com/elmagnificogi/diablo2_resurrected_filter
 ```
 
 (3) 移除開頭動畫
+
 (4) 更換符文圖案
 整合 : https://www.nexusmods.com/diablo2resurrected/mods/71
 
